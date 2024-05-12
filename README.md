@@ -1,32 +1,34 @@
-光の分野で出てくるベクトルビームというものについて書きます.
+光の分野で出てくるベクトルビームというもの(とそれに関連する物理や数学など)について書きます.
 
 <details>
 
 <summary>ベクトルビームとは</summary>
 
-### You can add a header
+光は電磁波の一種であるので進行方向と垂直に振動しながら伝播していきます.通常のビーム(ここではスカラービームと呼びます)はビーム面内のすべての位置で振動方向が同じです.直線偏光だけでなく円偏光など伝播によって振動方向が変わるものもスカラービームと呼びます.なぜなら今考えているのはビーム面内,つまりz軸正の方向に光が伝播しているとしてある位置zでのx-y平面での振動方向が一様か一様でないかを考えているからです.円偏光は振動方向が変化していきますがそれはzの位置が変わったとき(時間変化を見た時)だからです。
 
-You can add text within a collapsed section. 
+直線偏光や円偏光はジョーンズベクトルで
 
-You can add an image or a code block, too.
+$$
+\begin{bmatrix}
+1 \newline
+0
+\end{bmatrix},
+\begin{bmatrix}
+1 \newline
+i
+\end{bmatrix}
+$$
 
-```ruby
-   puts "Hello World"
-```
+表すことができますがベクトルビームでは例えばビーム面内の方位角を $\phi$ として
+
+\begin{bmatrix}
+\cos{\phi} \newline
+\sin{phi}
+\end{bmatrix}
+
+のように位置による自由度がつきます.
 
 </details>
 
 > [!NOTE]
-> Highlights information that users should take into account, even when skimming.
-
-> [!TIP]
-> Optional information to help a user be more successful.
-
-> [!IMPORTANT]
-> Crucial information necessary for users to succeed.
-
-> [!WARNING]
-> Critical content demanding immediate user attention due to potential risks.
-
-> [!CAUTION]
-> Negative potential consequences of an action.
+> ベクトルビームが自分の研究テーマです.
