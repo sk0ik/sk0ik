@@ -1,11 +1,69 @@
-光の分野で出てくるベクトルビームというもの(とそれに関連する物理や数学など)について書きます.
+<!-- $$
+\begin{aligned}
+\begin{bmatrix}
 
-<details>
+\end{bmatrix}
+\end{aligned}
+$$ -->
 
-<summary>ベクトルビームとは</summary>
+<!-- <p align="center">
+<img src="https://github.com/sk0ik/Vector_Beam/blob/main/Gif/x_linear_polarization.png" alt="サンプル画像" width="300">
+</p> -->
 
-光は電磁波の一種であるので進行方向と垂直に電場(と磁場)が振動しながら伝播していきます.通常のビーム(ここではスカラービームと呼びます)はビーム面内のすべての位置で振動方向が同じです.直線偏光だけでなく円偏光など伝播によって振動方向が変わるものもスカラービームです.なぜなら今考えているのはビーム面内,つまりz軸正の方向に光が伝播しているとしてある位置zでのx-y平面での振動方向が一様か一様でないかを考えているからです.円偏光は振動方向が変化していきますがそれはzの位置が変わったとき(時間変化を見た時)だからです。ベクトルビームはビーム断面での振動方向が一様でないものを指します.
+<!-- | ![GIF1](https://github.com/sk0ik/Vector_Beam/blob/main/GIF/x_pol_normal-ezgif.com-crop.gif) | ![GIF2](https://github.com/sk0ik/Vector_Beam/blob/main/GIF/x_polarization_amp-ezgif.com-crop.gif) | ![GIF3](https://github.com/sk0ik/Vector_Beam/blob/main/GIF/x_polarization_freq-ezgif.com-crop.gif) |
+|:---:|:---:|:---:|
+| GIF1 Caption | GIF2 Caption | GIF3 Caption | -->
 
-偏光状態を表すのにジョーンズベクトルが用いられますが,直線偏光や円偏光はジョーンズベクトルで表すと定数ベクトルになります.それに対してベクトルビームは位置による自由度を持ち,これが場所によって偏光方向が異なることに対応しています.
+<!-- | ![GIF1](https://github.com/sk0ik/Vector_Beam/blob/main/GIF/x_pol_normal-ezgif.com-crop.gif)|
+|:---:|
+| GIF1 Caption | -->
 
-</details>
+[ページ下部へ](#under)
+<a id="top"></a>
+
+# 目次
+
+## [研究の概要](https://github.com/sk0ik/Vector_Beam/blob/main/File/000.Summary.md)
+
+↓もっと詳しい内容(随時更新)↓
+
+## [関係する本や論文](https://github.com/sk0ik/Vector_Beam/blob/main/File/001.Papers.md)
+
+## [応用分野](https://github.com/sk0ik/Vector_Beam/blob/main/File/002.Application.md)
+
+## [波としての光](https://github.com/sk0ik/Vector_Beam/blob/main/File/003.Introduction.md)
+
+↓準備中↓
+
+## ヘルムホルツ方程式
+
+<!-- ## [ヘルムホルツ方程式](https://github.com/sk0ik/Vector_Beam/blob/main/File/004.Helmholtz_Equation.md) -->
+
+## ジョーンズ行列とジョーンズベクトル
+
+<!-- ## [ジョーンズベクトルとジョーンズ行列](https://github.com/sk0ik/Vector_Beam/blob/main/File/005.Jones_Vector_Jones_Matrix.md) -->
+
+## スカラービーム
+
+<!-- ## [スカラービーム](https://github.com/sk0ik/Vector_Beam/blob/main/File/006.Scalar_Beam.md) -->
+
+## ベクトルビーム
+
+<!-- ## [ベクトルビーム](https://github.com/sk0ik/Vector_Beam/blob/main/File/007.Vector_Beam.md) -->
+
+## 実験方法
+
+<!-- ## [実験方法](https://github.com/sk0ik/Vector_Beam/blob/main/File/008.Experiment.md) -->
+
+## 評価方法
+
+<!-- ## [評価方法](https://github.com/sk0ik/Vector_Beam/blob/main/File/009.Evaluation.md) -->
+
+<!-- 1.  [機械学習](https://github.com/sk0ik/Vector_Beam/blob/main/File/013Machine_Learning.md)
+
+1.  [メモ](https://github.com/sk0ik/Vector_Beam/blob/main/File/999.Draft.md) -->
+
+<a id="under"></a>
+
+[ページ上部へ](#top)
+
