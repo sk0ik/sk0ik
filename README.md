@@ -21,6 +21,8 @@ $$ -->
 [ページ下部へ](#under)
 <a id="top"></a>
 
+光学の1つの分野であるベクトルビームというものについて研究をしています.
+
 # 目次
 
 ## [研究の概要](https://github.com/sk0ik/Vector_Beam/blob/main/File/000.Summary.md)
