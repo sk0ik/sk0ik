@@ -33,7 +33,9 @@ $$ -->
 
 <!-- ## [応用分野](https://github.com/sk0ik/Vector_Beam/blob/main/File/002.Application.md) -->
 
-## [波としての光](https://github.com/sk0ik/Vector_Beam/blob/main/File/003.Introduction.md)
+## 波としての光
+
+<!-- ## [波としての光](https://github.com/sk0ik/Vector_Beam/blob/main/File/003.Introduction.md) -->
 
 ## ヘルムホルツ方程式
 
