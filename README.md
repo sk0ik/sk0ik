@@ -1,33 +1,12 @@
-<!-- $$
-\begin{aligned}
-\begin{bmatrix}
-
-\end{bmatrix}
-\end{aligned}
-$$ -->
-
-<!-- <p align="center">
-<img src="https://github.com/sk0ik/Vector_Beam/blob/main/Gif/x_linear_polarization.png" alt="サンプル画像" width="300">
-</p> -->
-
-<!-- | ![GIF1](https://github.com/sk0ik/Vector_Beam/blob/main/GIF/x_pol_normal-ezgif.com-crop.gif) | ![GIF2](https://github.com/sk0ik/Vector_Beam/blob/main/GIF/x_polarization_amp-ezgif.com-crop.gif) | ![GIF3](https://github.com/sk0ik/Vector_Beam/blob/main/GIF/x_polarization_freq-ezgif.com-crop.gif) |
-|:---:|:---:|:---:|
-| GIF1 Caption | GIF2 Caption | GIF3 Caption | -->
-
-<!-- | ![GIF1](https://github.com/sk0ik/Vector_Beam/blob/main/GIF/x_pol_normal-ezgif.com-crop.gif)|
-|:---:|
-| GIF1 Caption | -->
-
-[ページ下部へ](#under)
-<a id="top"></a>
-
-光学の1つの分野であるベクトルビームというものについて研究をしています.
-
-# 目次
+光学の1つの分野であるベクトルビームというものについて研究をしています.研究の内容を
 
 ## [研究の概要](https://github.com/sk0ik/Vector_Beam/blob/main/File/000.Summary.md)
 
-↓もっと詳しい内容↓
+にて説明しています.
+
+以下では研究についてもう少し詳しく説明しています.
+
+# 目次
 
 ## [関係する本や論文](https://github.com/sk0ik/Vector_Beam/blob/main/File/001.Papers.md)
 
@@ -64,7 +43,3 @@ $$ -->
 <!-- 1.  [機械学習](https://github.com/sk0ik/Vector_Beam/blob/main/File/013Machine_Learning.md)
 
 1.  [メモ](https://github.com/sk0ik/Vector_Beam/blob/main/File/999.Draft.md) -->
-
-<a id="under"></a>
-
-[ページ上部へ](#top)
