@@ -1,4 +1,4 @@
-光学の1つの分野であるベクトルビームというものについて研究をしています.研究の内容を
+光学の1つの分野であるベクトルビームについて研究をしています.大まかな研究の内容を
 
 ## [研究の概要](https://github.com/sk0ik/Vector_Beam/blob/main/File/000.Summary.md)
 
@@ -6,40 +6,14 @@
 
 以下では研究についてもう少し詳しく説明しています.
 
-# 目次
+## [関係する本や論文](https://github.com/sk0ik/Vector_Beam/blob/main/File/Papers.md)
 
-## [関係する本や論文](https://github.com/sk0ik/Vector_Beam/blob/main/File/001.Papers.md)
-
-## 応用分野
-
-<!-- ## [応用分野](https://github.com/sk0ik/Vector_Beam/blob/main/File/002.Application.md) -->
-
-## 波としての光
-
-<!-- ## [波としての光](https://github.com/sk0ik/Vector_Beam/blob/main/File/003.Introduction.md) -->
-
-## ヘルムホルツ方程式
-
-<!-- ## [ヘルムホルツ方程式](https://github.com/sk0ik/Vector_Beam/blob/main/File/004.Helmholtz_Equation.md) -->
-
-## [ジョーンズベクトルとジョーンズ行列](https://github.com/sk0ik/Vector_Beam/blob/main/File/005.Jones_Vector_Jones_Matrix.md)
+## [ジョーンズベクトルとジョーンズ行列](https://github.com/sk0ik/Vector_Beam/blob/main/File/Jones_Vector_Jones_Matrix.md)
 
 ## スカラービーム
 
-<!-- ## [スカラービーム](https://github.com/sk0ik/Vector_Beam/blob/main/File/006.Scalar_Beam.md) -->
+<!-- ## [スカラービーム](https://github.com/sk0ik/Vector_Beam/blob/main/File/Scalar_Beam.md) -->
 
 ## ベクトルビーム
 
-<!-- ## [ベクトルビーム](https://github.com/sk0ik/Vector_Beam/blob/main/File/007.Vector_Beam.md) -->
-
-## 実験方法
-
-<!-- ## [実験方法](https://github.com/sk0ik/Vector_Beam/blob/main/File/008.Experiment.md) -->
-
-## 評価方法
-
-<!-- ## [評価方法](https://github.com/sk0ik/Vector_Beam/blob/main/File/009.Evaluation.md) -->
-
-<!-- 1.  [機械学習](https://github.com/sk0ik/Vector_Beam/blob/main/File/013Machine_Learning.md)
-
-1.  [メモ](https://github.com/sk0ik/Vector_Beam/blob/main/File/999.Draft.md) -->
+<!-- ## [ベクトルビーム](https://github.com/sk0ik/Vector_Beam/blob/main/File/Vector_Beam.md) -->
