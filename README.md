@@ -19,3 +19,5 @@
 - ## ベクトルビーム
 
 <!-- ## [ベクトルビーム](https://github.com/sk0ik/Vector_Beam/blob/main/File/Vector_Beam.md) -->
+
+- ## [メモ](https://github.com/sk0ik/Vector_Beam/blob/main/File/Memo.md)
