@@ -1,10 +1,8 @@
-光学の1つの分野であるベクトルビームについて研究をしています.大まかな研究の内容を
+光学の1つの分野であるベクトルビームについて研究をしています.
 
-  # [研究の概要](https://github.com/sk0ik/Vector_Beam/blob/main/File/Summary.md)
+# [研究概要](https://github.com/sk0ik/Vector_Beam/blob/main/File/Summary.md)
 
-にて説明しています.
-
-以下では研究についてもう少し詳しく説明しています.
+<!--
 
 # 目次
 
@@ -14,10 +12,10 @@
 
 - ## スカラービーム
 
-<!-- ## [スカラービーム](https://github.com/sk0ik/Vector_Beam/blob/main/File/Scalar_Beam.md) -->
+## [スカラービーム](https://github.com/sk0ik/Vector_Beam/blob/main/File/Scalar_Beam.md)
 
 - ## ベクトルビーム
 
-<!-- ## [ベクトルビーム](https://github.com/sk0ik/Vector_Beam/blob/main/File/Vector_Beam.md) -->
+## [ベクトルビーム](https://github.com/sk0ik/Vector_Beam/blob/main/File/Vector_Beam.md)
 
-- ## [メモ](https://github.com/sk0ik/Vector_Beam/blob/main/File/Memo.md)
+- ## [メモ](https://github.com/sk0ik/Vector_Beam/blob/main/File/Memo.md) -->
