@@ -2,6 +2,8 @@
 
 # [研究概要](https://github.com/sk0ik/Vector_Beam/blob/main/File/Summary.md)
 
+# [論文](https://github.com/sk0ik/paper/blob/main/paper.md)
+
 <!--
 
 # 目次
