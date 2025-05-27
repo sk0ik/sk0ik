@@ -8,4 +8,4 @@
 
 ここから先は数学的な話も含めてベクトルビームを理解するために必要な知識をまとめています.
 
-# [参考論文,教科書](https://github.com/sk0ik/paper/blob/main/jones_vector_matrix.md)
+# [ジョーンズベクトル,ジョーンズ行列](https://github.com/sk0ik/paper/blob/main/jones_vector_matrix.md)
