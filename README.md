@@ -10,6 +10,8 @@
 
 # [ジョーンズベクトル,ジョーンズ行列](https://github.com/sk0ik/jones_vector_matrix/tree/main)
 
+# [スカラービーム](https://github.com/sk0ik/scalar_beam)
+
 # [ヘルムホルツ方程式](https://github.com/sk0ik/helmholtz_equation/tree/main)
 
 # [ベッセル関数](https://github.com/sk0ik/bessel_function/tree/main)
