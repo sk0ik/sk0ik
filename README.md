@@ -8,20 +8,4 @@
 
 ここから先は数学的な話も含めてベクトルビームを理解するために必要な知識をまとめています.
 
-<!--
-
-# 目次
-
-- ## [関係する本や論文](https://github.com/sk0ik/Vector_Beam/blob/main/File/Papers.md)
-
-- ## [ジョーンズベクトルとジョーンズ行列](https://github.com/sk0ik/Vector_Beam/blob/main/File/Jones_Vector_Jones_Matrix.md)
-
-- ## スカラービーム
-
-## [スカラービーム](https://github.com/sk0ik/Vector_Beam/blob/main/File/Scalar_Beam.md)
-
-- ## ベクトルビーム
-
-## [ベクトルビーム](https://github.com/sk0ik/Vector_Beam/blob/main/File/Vector_Beam.md)
-
-- ## [メモ](https://github.com/sk0ik/Vector_Beam/blob/main/File/Memo.md) -->
+# [参考論文,教科書](https://github.com/sk0ik/paper/blob/main/jones_vector_matrix.md)
