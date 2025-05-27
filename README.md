@@ -2,7 +2,7 @@
 
 # [研究概要](https://github.com/sk0ik/vector_beam/blob/main/README.md)
 
-# [論文](https://github.com/sk0ik/paper/blob/main/paper.md)
+# [参考論文,教科書](https://github.com/sk0ik/paper/blob/main/paper.md)
 
 <!--
 
