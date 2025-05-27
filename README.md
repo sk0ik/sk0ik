@@ -1,6 +1,6 @@
 光学の1つの分野であるベクトルビームについて研究をしています.
 
-# [研究概要](https://github.com/sk0ik/Vector_Beam/blob/main/File/Summary.md)
+# [研究概要](https://github.com/sk0ik/vector_beam/blob/main/README.md)
 
 # [論文](https://github.com/sk0ik/paper/blob/main/paper.md)
 
